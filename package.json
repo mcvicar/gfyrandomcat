@@ -1,0 +1,21 @@
+{
+  "name": "gfyrandomcat",
+  "version": "0.0.1",
+  "description": "Password generation using random.org with the gfycat adjectives and animal lists",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rebelmail/node-lambda-template.git"
+  },
+  "author": "motdotla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebelmail/node-lambda-template/issues"
+  },
+  "homepage": "https://github.com/rebelmail/node-lambda-template",
+  "dependencies": {
+    "bluebird": "^3.2.2",
+    "promise": "^7.0.4"
+  },
+  "scripts": {}
+}
