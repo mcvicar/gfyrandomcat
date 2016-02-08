@@ -4,7 +4,7 @@ Password generation using random.org with the gfycat adjectives and animal lists
 ## Why?
 Why not have an interesting memorable password inspired by [xkcd](https://xkcd.com/936/)?
 
-Basically the password will follow a pattern of Adjective|###|Animal|###|Adjective.
+Basically the password will follow a pattern of Adjective|###|Animal|###|Adjective, so basically something like _Honest768Pterosaurs290Unfit_, _Damp372Oropendula941Illustrious_ or _Illegal93Urubu629Purple_
 
 This means (with my hastily put together maths) that there will nearly **4 Quintillion** possible passwords (1501 \* 999 \* 1750 \* 999 \* 1501 \* 999 = 3.9309353e+18).
 
